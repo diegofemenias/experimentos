@@ -1,0 +1,11 @@
+Ubicacion buses por nro de linea
+https://api.montevideo.gub.uy/api/transportepublico/buses?lines=64%2C21%2C427%2C407%2C142%2C60
+
+URL token
+https://mvdapi-auth.montevideo.gub.uy/auth/realms/pci/protocol/openid-connect/token
+
+Client id: 35b548eb
+Secret: 199d765b7fa401ed9b9ba0b4c76e52e1
+grant type client credentials
+oauth2
+

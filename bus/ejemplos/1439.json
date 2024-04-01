@@ -1,0 +1,434 @@
+[
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:36:07.000-03",
+        "busId": 77,
+        "line": "21",
+        "lineVariantId": 4419,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.08336,
+                -34.881943
+            ]
+        },
+        "origin": "PLAZA INDEPENDENCIA",
+        "destination": "PORTONES",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:11.000-03",
+        "busId": 361,
+        "line": "21",
+        "lineVariantId": 4426,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.03325,
+                -34.874638
+            ]
+        },
+        "origin": "GEANT",
+        "destination": "PLAZA INDEPENDENCIA",
+        "subline": "PLAZA INDEPENDENCIA -- PARQUE ROOSEVELT",
+        "special": false
+    },
+    {
+        "company": "COETC",
+        "timestamp": "2023-10-19T14:39:39.000-03",
+        "busId": 232,
+        "line": "407",
+        "lineVariantId": 49,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.122547,
+                -34.872665
+            ]
+        },
+        "origin": "PLAZA ESPAÑA",
+        "destination": "PORTONES",
+        "subline": "PORTONES - PLAZA ESPAÑA",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:45.000-03",
+        "busId": 11,
+        "line": "21",
+        "lineVariantId": 4418,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.110275,
+                -34.886723
+            ]
+        },
+        "origin": "PORTONES",
+        "destination": "PLAZA INDEPENDENCIA",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:41.000-03",
+        "busId": 49,
+        "line": "21",
+        "lineVariantId": 4419,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.09914,
+                -34.88036
+            ]
+        },
+        "origin": "PLAZA INDEPENDENCIA",
+        "destination": "PORTONES",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:45.000-03",
+        "busId": 21,
+        "line": "21",
+        "lineVariantId": 4419,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.10747,
+                -34.87886
+            ]
+        },
+        "origin": "PLAZA INDEPENDENCIA",
+        "destination": "PORTONES",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:19.000-03",
+        "busId": 784,
+        "line": "21",
+        "lineVariantId": 4427,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.145332,
+                -34.888
+            ]
+        },
+        "origin": "PLAZA INDEPENDENCIA",
+        "destination": "GEANT",
+        "subline": "PLAZA INDEPENDENCIA -- PARQUE ROOSEVELT",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:34.000-03",
+        "busId": 104,
+        "line": "21",
+        "lineVariantId": 4426,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.169167,
+                -34.89736
+            ]
+        },
+        "origin": "GEANT",
+        "destination": "PLAZA INDEPENDENCIA",
+        "subline": "PLAZA INDEPENDENCIA -- PARQUE ROOSEVELT",
+        "special": false
+    },
+    {
+        "company": "COETC",
+        "timestamp": "2023-10-19T14:39:41.000-03",
+        "busId": 52,
+        "line": "407",
+        "lineVariantId": 52,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.13654,
+                -34.88654
+            ]
+        },
+        "origin": "PORTONES",
+        "destination": "PLAZA ESPAÑA",
+        "subline": "PORTONES - PLAZA ESPAÑA",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:35:28.000-03",
+        "busId": 1095,
+        "line": "21",
+        "lineVariantId": 4418,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.200943,
+                -34.90614
+            ]
+        },
+        "origin": "PORTONES",
+        "destination": "PLAZA INDEPENDENCIA",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:37.000-03",
+        "busId": 911,
+        "line": "21",
+        "lineVariantId": 4418,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.167194,
+                -34.894833
+            ]
+        },
+        "origin": "PORTONES",
+        "destination": "PLAZA INDEPENDENCIA",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:49.000-03",
+        "busId": 1112,
+        "line": "21",
+        "lineVariantId": 4426,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.116528,
+                -34.887085
+            ]
+        },
+        "origin": "GEANT",
+        "destination": "PLAZA INDEPENDENCIA",
+        "subline": "PLAZA INDEPENDENCIA -- PARQUE ROOSEVELT",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:39.000-03",
+        "busId": 823,
+        "line": "21",
+        "lineVariantId": 4419,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.149693,
+                -34.88986
+            ]
+        },
+        "origin": "PLAZA INDEPENDENCIA",
+        "destination": "PORTONES",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    },
+    {
+        "company": "COETC",
+        "timestamp": "2023-10-19T14:39:43.000-03",
+        "busId": 44,
+        "line": "407",
+        "lineVariantId": 49,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.164413,
+                -34.89848
+            ]
+        },
+        "origin": "PLAZA ESPAÑA",
+        "destination": "PORTONES",
+        "subline": "PORTONES - PLAZA ESPAÑA",
+        "special": false
+    },
+    {
+        "company": "COETC",
+        "timestamp": "2023-10-19T14:36:53.000-03",
+        "busId": 263,
+        "line": "407",
+        "lineVariantId": 49,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.083176,
+                -34.882137
+            ]
+        },
+        "origin": "PLAZA ESPAÑA",
+        "destination": "PORTONES",
+        "subline": "PORTONES - PLAZA ESPAÑA",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:44.000-03",
+        "busId": 84,
+        "line": "21",
+        "lineVariantId": 4427,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.18619,
+                -34.905582
+            ]
+        },
+        "origin": "PLAZA INDEPENDENCIA",
+        "destination": "GEANT",
+        "subline": "PLAZA INDEPENDENCIA -- PARQUE ROOSEVELT",
+        "special": false
+    },
+    {
+        "company": "COETC",
+        "timestamp": "2023-10-19T14:39:36.000-03",
+        "busId": 265,
+        "line": "407",
+        "lineVariantId": 52,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.164288,
+                -34.899956
+            ]
+        },
+        "origin": "PORTONES",
+        "destination": "PLAZA ESPAÑA",
+        "subline": "PORTONES - PLAZA ESPAÑA",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:42.000-03",
+        "busId": 89,
+        "line": "21",
+        "lineVariantId": 4418,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.109386,
+                -34.87997
+            ]
+        },
+        "origin": "PORTONES",
+        "destination": "PLAZA INDEPENDENCIA",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    },
+    {
+        "company": "COETC",
+        "timestamp": "2023-10-19T14:39:40.000-03",
+        "busId": 287,
+        "line": "407",
+        "lineVariantId": 52,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.120968,
+                -34.87707
+            ]
+        },
+        "origin": "PORTONES",
+        "destination": "PLAZA ESPAÑA",
+        "subline": "PORTONES - PLAZA ESPAÑA",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:43.000-03",
+        "busId": 1095,
+        "line": "21",
+        "lineVariantId": 4419,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.19875,
+                -34.90653
+            ]
+        },
+        "origin": "PLAZA INDEPENDENCIA",
+        "destination": "PORTONES",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:36.000-03",
+        "busId": 15,
+        "line": "64",
+        "lineVariantId": 4540,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.103195,
+                -34.888275
+            ]
+        },
+        "origin": "PORTONES",
+        "destination": "TRES CRUCES",
+        "subline": "PORTONES -- TRES CRUCES",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:47.000-03",
+        "busId": 99,
+        "line": "21",
+        "lineVariantId": 4419,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.16364,
+                -34.8945
+            ]
+        },
+        "origin": "PLAZA INDEPENDENCIA",
+        "destination": "PORTONES",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:38.000-03",
+        "busId": 1110,
+        "line": "64",
+        "lineVariantId": 4541,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.138668,
+                -34.886776
+            ]
+        },
+        "origin": "TRES CRUCES",
+        "destination": "PORTONES",
+        "subline": "PORTONES -- TRES CRUCES",
+        "special": false
+    },
+    {
+        "company": "CUTCSA",
+        "timestamp": "2023-10-19T14:39:47.000-03",
+        "busId": 694,
+        "line": "21",
+        "lineVariantId": 4418,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -56.16986,
+                -34.89622
+            ]
+        },
+        "origin": "PORTONES",
+        "destination": "PLAZA INDEPENDENCIA",
+        "subline": "PLAZA INDEPENDENCIA -- PORTONES (FAC. CIENCIAS)",
+        "special": false
+    }
+]
