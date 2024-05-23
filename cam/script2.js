@@ -42,9 +42,10 @@ function autoCapture () {
 }
 
 function manualCapture() {
+  document.getElementById("takepic").disabled = true;
   autoCapture();
   saveImage();
-
+  document.getElementById("takepic").disabled = false;
 }
 
 function saveImage() {
@@ -66,8 +67,5 @@ function saveImage() {
     ajax.send("imgData=" + canvasData);
   }
 
-// Below code to capture image from Video tag (Webcam streaming)
-const btnCapture = document.querySelector("#btnCapture");
 const canvas = document.getElementById('canvas');
-
 document.querySelector("#takepic").addEventListener("click", manualCapture);

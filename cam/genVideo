@@ -1,0 +1,2 @@
+cd /usr/home/diegofemenias/domains/diegofemenias.serv00.net/public_html/cam
+./ffmpeg -pattern_type glob -i 'captures/*.png' out.mp4 -y
